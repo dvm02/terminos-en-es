@@ -7,3 +7,5 @@ input           Entradas
 title           Título
 button          Botón
 information     Información
+box             Caja
+model           Modelo
