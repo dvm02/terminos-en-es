@@ -9,3 +9,15 @@ button          Botón
 information     Información
 box             Caja
 model           Modelo
+footer
+section
+header
+article
+aside
+                arriba
+                abajo
+                izquierda
+                derecha
+                interior
+                exterior
+                
